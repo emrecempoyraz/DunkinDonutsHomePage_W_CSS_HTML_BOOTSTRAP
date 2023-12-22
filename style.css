@@ -1,0 +1,23 @@
+.primary-font {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.primary-f {
+    font-family: DunkinSansExtraBold,"Montserrat",sans-serif;
+    font-weight: 800;
+    font-size: 1.28rem;
+    line-height: 1;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.pic-size {
+    height: 211px;
+    width: 270px;
+}
+
+.pic-size-2 {
+    height: 252px;
+    width: 22;
+}
